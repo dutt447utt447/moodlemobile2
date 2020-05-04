@@ -52,18 +52,7 @@
     },
     "wsservice": "techview_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/sunildutt.in",
-            "username": "shanti",
-            "password": "P@ssw0rd"
-        },
-        "teacher": {
-            "url": "https:\/\/sunildutt.in",
-            "username": "shanti",
-            "password": "P@ssw0rd"
-        }
-    },
+    
     "gcmpn": "694767596569",
     "customurlscheme": "techviewmobile",
     "siteurl": "http://sunildutt.in",
