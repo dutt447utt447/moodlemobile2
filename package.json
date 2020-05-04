@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "techviewmobile",
   "version": "3.6.0",
-  "description": "The official app for Moodle.",
+  "description": "The official app for TechView.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Techview Team.",
+    "email": "help@techviewteam"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -150,7 +150,7 @@
       "cordova-plugin-badge": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "techviemobile"
       },
       "cordova-plugin-device": {},
       "cordova-plugin-file": {},
@@ -176,8 +176,8 @@
   },
   "main": "desktop/electron.js",
   "build": {
-    "appId": "com.moodle.moodledesktop",
-    "productName": "Moodle Desktop",
+    "appId": "com.techview.techviewdesktop",
+    "productName": "TechView Desktop",
     "files": [
       "desktop/electron.js",
       "www/**/*",
@@ -198,9 +198,9 @@
     },
     "protocols": [
       {
-        "name": "Moodle Mobile URL",
+        "name": "TechView Mobile URL",
         "schemes": [
-          "moodlemobile"
+          "techviewmobile"
         ],
         "role": "Viewer"
       }
