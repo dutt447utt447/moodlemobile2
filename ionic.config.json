@@ -1,11 +1,11 @@
 {
-  "name": "moodlemobile",
+  "name": "techviewmobile",
   "integrations": {
     "cordova": {},
     "gulp": {}
   },
   "type": "ionic-angular",
   "watchPatterns": [],
-  "pro_id": "com.moodle.moodlemobile",
-  "id": "com.moodle.moodlemobile"
+  "pro_id": "com.techview.techviewmobile",
+  "id": "com.techview.techviewmobile"
 }
